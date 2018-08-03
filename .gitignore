@@ -1,5 +1,12 @@
-# mac
 .DS_Store
 
-# PyCharm
 .idea/
+
+*cidr_blocks.json
+*armand*
+
+.gitignore
+
+venv/
+*__pycache__*
+
